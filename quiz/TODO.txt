@@ -1,0 +1,9 @@
+TO DO List
+    Read CSV
+    Convert CSV data to struct
+    Prompt user
+    Read user data
+    Compare user data to struct
+    Continue if ok
+    Count right or wrong
+    CSV name custom
